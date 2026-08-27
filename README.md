@@ -1,7 +1,7 @@
 # MP3-volume-equalizer
 Trying to equalize all mp3 audio samples from an given directory
 
-![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?logo=python) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?logo=python) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![CI](https://github.com/USER/REPO/actions/workflows/main.yml/badge.svg)](https://github.com/USER/REPO/actions)
 
 # The Setup:
 -
