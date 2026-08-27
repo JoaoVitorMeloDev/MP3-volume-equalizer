@@ -20,7 +20,7 @@ Trying to equalize all mp3 audio samples from an given directory
 -
 -
 
-# If you want to test the volume before changing every directory you can test music by music here:
+If you want to test the volume before changing every directory you can test music by music here:
 
 -
 -
