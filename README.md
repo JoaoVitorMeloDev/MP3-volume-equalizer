@@ -2,7 +2,8 @@
 Trying to equalize all mp3 audio samples from an given directory
 
 ![Made with Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?logo=python) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![PyDub](https://img.shields.io/badge/PyDub-FF4B4B?logo=python&logoColor=white)   
 
 
 # The Setup:
